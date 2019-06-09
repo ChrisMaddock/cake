@@ -29,6 +29,6 @@
   </ItemGroup>
   <!-- .NET Framework packages -->
   <ItemGroup Condition=" '$(TargetFramework)' == 'net46' ">
-    <PackageReference Include="NuGet.PackageManagement" Version="4.6.0" />
+    <PackageReference Include="NuGet.PackageManagement" Version="4.6.4" />
   </ItemGroup>
 </Project>
