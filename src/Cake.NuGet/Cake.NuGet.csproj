@@ -25,7 +25,7 @@
   </ItemGroup>
   <!-- .NET Core packages -->
   <ItemGroup Condition=" '$(TargetFramework)' == 'netstandard2.0' ">
-    <PackageReference Include="NuGet.PackageManagement.NetStandard" Version="4.6.0" />
+    <PackageReference Include="NuGet.PackageManagement.NetStandard" Version="4.9.2" />
   </ItemGroup>
   <!-- .NET Framework packages -->
   <ItemGroup Condition=" '$(TargetFramework)' == 'net46' ">
