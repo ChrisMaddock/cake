@@ -16,6 +16,6 @@
   <!-- Global packages -->
   <ItemGroup>
     <PackageReference Include="Microsoft.CodeAnalysis.CSharp.Scripting" Version="2.6.1" />
-    <PackageReference Include="Autofac" Version="4.6.2" />
+    <PackageReference Include="Autofac" Version="4.9.2" />
   </ItemGroup>
 </Project>
